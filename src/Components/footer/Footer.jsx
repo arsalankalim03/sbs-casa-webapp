@@ -93,7 +93,14 @@ function Footer() {
           </div>
           <div className="dev">
             <p>
-              Design and Developed By Arsalan Kalim
+              Design and Developed By
+              <a
+                target="_blank"
+                href="https://personal-react-portfolio.web.app/"
+                rel="noreferrer"
+              >
+                Nishant Yadav
+              </a>
             </p>
           </div>
           <div className="copyright">
